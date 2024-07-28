@@ -1,4 +1,4 @@
-# A Typescript Template for building ECMAScript modules
+## A Typescript Template for building ECMAScript modules
 
 * [Typescript](https://www.typescriptlang.org/)
 * [pnpm](https://pnpm.io/) - Package manager
